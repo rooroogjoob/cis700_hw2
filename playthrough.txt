@@ -1,0 +1,23 @@
+*ENTER*
+friends are good
+take slippers
+west
+take apron
+add cheese to pot
+add strawberry to pot
+take snack
+east
+east
+use hookah
+west
+up
+up
+west
+south
+take hawk repellant
+north
+east
+east
+east
+up
+use hawk repellant
