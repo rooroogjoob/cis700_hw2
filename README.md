@@ -30,6 +30,6 @@ For my own game, I added the sentiment analysis code from the third provided Col
 
 Now, you are instructed to hit 'enter' (much like the title screen of a video game). You will then be asked to say something positive before you start your day. This is in line with the general theme of the game such as self-care, self-love, positive thoughts, and general self-forgiveness in tough times. 
 
-The user then inputs something nice like "friends are good" or "I am happy" and the game will let you wake up and properly begin. If the user inputs something mean or bad the game will end, similar to the notino of "if you have a bad attitude you've lost to begin with". But if your statement is pretty neutral or ambiguous, the game reluctantly lets you continue.
+The user then inputs something nice like "friends are good" or "I am happy" and the game will let you wake up and properly begin. If the user inputs something mean or bad the game will end, similar to the notion of "if you have a bad attitude you've lost to begin with". But if your statement is pretty neutral or ambiguous, the game reluctantly lets you continue.
 
 
