@@ -1,0 +1,209 @@
+{
+    "hypernyms": {
+        "crown": [
+            "jewelled_headdress.n.01",
+            "headdress.n.01"
+        ],
+        "eat": [
+            "consume.v.02",
+            "eat.v.02",
+            "consume.v.02"
+        ],
+        "fish": [
+            "aquatic_vertebrate.n.01"
+        ],
+        "give": [
+            "transfer.v.05"
+        ],
+        "go": [
+            "exit.v.01",
+            "move.v.03"
+        ],
+        "lamp": [
+            "source_of_illumination.n.01",
+            "device.n.01"
+        ],
+        "light": [
+            "lighten.v.05"
+        ],
+        "north": [],
+        "princess": [
+            "aristocrat.n.01"
+        ],
+        "propose": [],
+        "rose": [],
+        "smell": [
+            "perceive.v.01"
+        ],
+        "troll": [
+            "mythical_monster.n.01",
+            "monster.n.01",
+            "mythical_being.n.01"
+        ],
+        "wear": []
+    },
+    "hyponyms": {
+        "crown": [
+            "coronet.n.01"
+        ],
+        "eat": [
+            "devour.v.03",
+            "devour.v.04",
+            "eat_up.v.01",
+            "fill_up.v.04",
+            "garbage_down.v.01",
+            "gluttonize.v.01",
+            "gobble.v.01",
+            "nibble.v.03",
+            "peck.v.02",
+            "pick_at.v.02",
+            "wolf.v.01"
+        ],
+        "fish": [
+            "cartilaginous_fish.n.01",
+            "fingerling.n.01",
+            "food_fish.n.01",
+            "game_fish.n.01",
+            "northern_snakehead.n.01",
+            "rough_fish.n.01",
+            "young_fish.n.01",
+            "elasmobranch.n.01",
+            "holocephalan.n.01",
+            "barracouta.n.01",
+            "groundfish.n.01",
+            "herring.n.02",
+            "salmon.n.01",
+            "sardine.n.02",
+            "sea_bass.n.02",
+            "shad.n.02",
+            "snapper.n.05",
+            "sole.n.04",
+            "trout.n.02",
+            "tuna.n.03",
+            "whitefish.n.03",
+            "brit.n.02",
+            "parr.n.02",
+            "parr.n.03",
+            "whitebait.n.02",
+            "atlantic_herring.n.01",
+            "pacific_herring.n.01",
+            "atlantic_salmon.n.02",
+            "blackfish.n.02",
+            "chinook.n.05",
+            "chum_salmon.n.01",
+            "coho.n.02",
+            "redfish.n.03",
+            "sockeye.n.02",
+            "belted_sandfish.n.01",
+            "black_sea_bass.n.01",
+            "blackmouth_bass.n.01",
+            "grouper.n.02",
+            "rock_sea_bass.n.01",
+            "stone_bass.n.01",
+            "striped_bass.n.02",
+            "allice_shad.n.01",
+            "common_american_shad.n.01",
+            "river_shad.n.01",
+            "grey_snapper.n.01",
+            "mutton_snapper.n.01",
+            "red_snapper.n.02",
+            "schoolmaster.n.03",
+            "yellowtail.n.01",
+            "english_sole.n.02",
+            "european_sole.n.01",
+            "lemon_sole.n.04",
+            "sand_sole.n.01",
+            "brook_trout.n.02",
+            "brown_trout.n.01",
+            "lake_trout.n.02",
+            "rainbow_trout.n.02",
+            "albacore.n.02",
+            "bluefin.n.02",
+            "yellowfin.n.01",
+            "cisco.n.02",
+            "lake_whitefish.n.01",
+            "rocky_mountain_whitefish.n.01",
+            "round_whitefish.n.01",
+            "landlocked_salmon.n.01",
+            "coney.n.01",
+            "creole-fish.n.01",
+            "sea_trout.n.03"
+        ],
+        "give": [
+            "bestow.v.02",
+            "concede.v.03",
+            "cough_up.v.01",
+            "distribute.v.01",
+            "offer.v.02",
+            "present.v.04",
+            "provide.v.02",
+            "spare.v.03",
+            "give.v.20",
+            "feed.v.02",
+            "feed.v.07",
+            "nourish.v.01",
+            "serve.v.06",
+            "bottlefeed.v.01",
+            "force-feed.v.01"
+        ],
+        "go": [],
+        "lamp": [
+            "candle.n.01",
+            "gas_lamp.n.01",
+            "lantern.n.01",
+            "limelight.n.02",
+            "oil_lamp.n.01",
+            "spirit_lamp.n.01",
+            "dark_lantern.n.01",
+            "safety_lamp.n.01"
+        ],
+        "light": [],
+        "north": [],
+        "princess": [
+            "archduchess.n.01",
+            "crown_princess.n.02",
+            "princess_royal.n.01"
+        ],
+        "propose": [],
+        "rose": [
+            "banksia_rose.n.01",
+            "cherokee_rose.n.01",
+            "china_rose.n.01",
+            "damask_rose.n.01",
+            "dog_rose.n.01",
+            "ground_rose.n.01",
+            "mountain_rose.n.01",
+            "multiflora.n.01",
+            "musk_rose.n.01",
+            "sweetbrier.n.01",
+            "tea_rose.n.01"
+        ],
+        "smell": [
+            "get_a_noseful.v.01",
+            "scent.v.02",
+            "sniff.v.01",
+            "snuff.v.01"
+        ],
+        "troll": [],
+        "wear": [
+            "slip_on.v.01",
+            "try_on.v.01"
+        ]
+    },
+    "senses": {
+        "crown": "crown.n.04",
+        "eat": "eat.v.01",
+        "fish": "fish.n.01",
+        "give": "give.v.03",
+        "go": "go.v.03",
+        "lamp": "lamp.n.01",
+        "light": "light.v.01",
+        "north": "north.n.05",
+        "princess": "princess.n.01",
+        "propose": "propose.v.05",
+        "rose": "rose.n.01",
+        "smell": "smell.v.01",
+        "troll": "troll.n.01",
+        "wear": "wear.v.09"
+    }
+}
